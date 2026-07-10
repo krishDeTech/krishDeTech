@@ -180,6 +180,14 @@ Our goal is to help startups, SMEs, and enterprises transform ideas into scalabl
 | Flutter Mobile | Android & iOS Apps |
 | AI Astrologer | Python + AI Prediction Engine |
 
+## Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/krishDeTech/krishDeTech/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
 ⭐ Thank you for visiting our GitHub Profile ⭐
 
 </p>
