@@ -492,23 +492,17 @@ Proposal Builder SaaS
 
 ---
 
-## GitHub Analytics
+## GitHub Engineering Metrics
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=krishDeTech&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=8B949E&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
-    alt="Krish Dutta GitHub statistics"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishDeTech&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=8B949E&langs_count=10&cache_seconds=86400"
-    alt="Most used programming languages"
+    src="./assets/github-metrics.svg"
+    alt="Krish Dutta and DE TECHS GitHub engineering metrics"
+    width="100%"
   />
 </p>
 
-> The language card reflects languages detected in public repositories. It does not represent total professional experience or the complete technology portfolio.
-
+> Metrics are generated automatically from available GitHub activity and public repository data.
 ---
 
 ## Contribution Activity
