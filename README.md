@@ -1,193 +1,595 @@
+<!-- =========================================================
+     DE TECHS — GITHUB PROFILE README
+     GitHub: https://github.com/krishDeTech
+     Website: https://detech.co.in
+========================================================== -->
+
 <p align="center">
-  <img src="assets/git%20banner.png" width="100%" alt="DE TECHS Banner"/>
+  <a href="https://detech.co.in" target="_blank">
+    <img
+      src="./assets/git%20banner.png"
+      alt="DE TECHS — Enterprise Software, Artificial Intelligence, Mobile Applications and Cloud Solutions"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="./assets/new-detechs-logo.png"
+    alt="DE TECHS Logo"
+    width="110"
+  />
 </p>
 
 <h1 align="center">DE TECHS</h1>
 
 <h3 align="center">
-Enterprise Software Development • Artificial Intelligence • Mobile Apps • Cloud Solutions
+  Enterprise Software Development · Artificial Intelligence · SaaS Platforms · Mobile Applications · Cloud Solutions
 </h3>
 
 <p align="center">
-Founder & CEO • Krish Dutta
+  <strong>Krish Dutta</strong><br/>
+  Founder & CEO · Technology Director · Product Builder<br/>
+  12+ Years of Technology and Digital Product Experience
 </p>
 
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=D4AF37&center=true&vCenter=true&width=950&lines=Founder+%26+CEO+of+DE+TECHS;12%2B+Years+Building+Digital+Solutions;Enterprise+Software+Architect;AI+%7C+Laravel+%7C+Python+%7C+Flutter+%7C+Cloud;Turning+Ideas+Into+Scalable+Products)](https://github.com/krishDeTech)
-
+  <a href="https://github.com/krishDeTech">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&duration=2600&pause=900&color=D4AF37&center=true&vCenter=true&width=1000&lines=Founder+%26+CEO+of+DE+TECHS;12%2B+Years+of+Technology+Experience;Enterprise+Software+%7C+AI+%7C+SaaS+%7C+Mobile+%7C+Cloud;Building+Scalable+Digital+Products;Transforming+Business+Ideas+Into+Technology"
+      alt="DE TECHS animated introduction"
+    />
+  </a>
 </p>
-
----
-
-# About DE TECHS
-
-DE TECHS is a software development company focused on building enterprise-grade digital products, AI-powered solutions, SaaS platforms, web applications, mobile applications, cloud infrastructure, and business automation systems.
-
-Our goal is to help startups, SMEs, and enterprises transform ideas into scalable, secure, and high-performance products.
-
----
-
-# Core Expertise
-
-- Enterprise Software Development
-- Artificial Intelligence
-- AI Agents
-- SaaS Platforms
-- Laravel Development
-- Python Development
-- Flutter Development
-- React & Next.js
-- REST APIs
-- Cloud Infrastructure
-- DevOps
-- Business Automation
-- CRM Development
-- ERP Development
-- HRM Systems
-- SEO & Digital Marketing
-
----
-
-# Technology Stack
 
 <p align="center">
+  <a href="https://detech.co.in">
+    <img src="https://img.shields.io/badge/Official_Website-DE_TECHS-D4AF37?style=for-the-badge&labelColor=111111" alt="DE TECHS Website"/>
+  </a>
+  <a href="mailto:detech.business001@gmail.com">
+    <img src="https://img.shields.io/badge/Business_Email-Contact_Us-D4AF37?style=for-the-badge&labelColor=111111" alt="Business Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/de-tech-2a6055285">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-D4AF37?style=for-the-badge&labelColor=111111" alt="LinkedIn"/>
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=laravel,php,python,fastapi,nodejs,react,nextjs,vue,flutter,dart,mysql,postgres,mongodb,redis,docker,aws,linux,git,github,firebase,wordpress"/>
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=krishDeTech&label=PROFILE%20VISITORS&color=D4AF37&style=for-the-badge"
+    alt="DE TECHS profile visitors"
+  />
 </p>
 
 ---
 
-# Ready Products
+## About DE TECHS
 
-- AI Astrologer Platform
-- Enterprise HRM
-- CRM System
-- ERP Solution
+**DE TECHS** is a technology and digital solutions company specializing in custom software, artificial intelligence, SaaS platforms, web applications, mobile applications, APIs, automation, cloud infrastructure and enterprise business systems.
+
+We work with startups, growing businesses, agencies and enterprises to transform business requirements into secure, scalable and production-ready digital products.
+
+Our work covers the complete product lifecycle—from strategy, architecture and UI/UX to development, deployment, infrastructure, maintenance and digital growth.
+
+### Leadership
+
+- **Founder & CEO:** Krish Dutta
+- **Experience:** 12+ years in technology and digital solutions
+- **Company:** DE TECHS
+- **Location:** Kolkata, West Bengal, India
+- **Business Website:** [detech.co.in](https://detech.co.in)
+- **Business Email:** [detech.business001@gmail.com](mailto:detech.business001@gmail.com)
+
+---
+
+## What We Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Enterprise Platforms
+
+- Enterprise Resource Planning systems
+- Customer Relationship Management systems
+- Human Resource Management systems
+- Payroll and attendance platforms
+- Inventory and warehouse systems
+- Proposal and quotation platforms
+- Lead and prospect management
+- Workflow and process automation
+
+    </td>
+    <td width="50%" valign="top">
+
+### AI-Powered Solutions
+
+- AI astrologer platforms
+- AI chatbots and assistants
+- AI agents and automation
+- Retrieval-Augmented Generation systems
+- Knowledge-based assistants
+- Natural language processing systems
+- Business intelligence automation
+- WhatsApp-based intelligent workflows
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### Web & SaaS Products
+
+- Laravel SaaS applications
+- Multi-tenant business platforms
+- E-commerce platforms
+- Booking and marketplace systems
+- Customer and vendor portals
+- Membership and subscription systems
+- Business websites and web portals
+- Progressive web applications
+
+    </td>
+    <td width="50%" valign="top">
+
+### Mobile Applications
+
+- Flutter applications
+- Android applications
+- iOS applications
+- Customer-facing mobile apps
+- Employee and field-force apps
+- Delivery and logistics applications
+- Real-time notification systems
+- API-connected mobile platforms
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## Core Technology Expertise
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs,express,js,ts,react,nextjs,vue,html,css,bootstrap,tailwind"
+    alt="Backend and frontend technology stack"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,mysql,postgres,mongodb,redis,docker,aws,linux,nginx,cloudflare,git"
+    alt="Mobile, database, cloud and DevOps technology stack"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,idea,pycharm,postman,figma,wordpress"
+    alt="Development tools and platforms"
+  />
+</p>
+
+### Engineering Capabilities
+
+| Area | Technologies and Capabilities |
+|---|---|
+| Backend Engineering | PHP, Laravel, Python, FastAPI, Node.js, Express.js |
+| Frontend Engineering | React, Next.js, Vue.js, JavaScript, TypeScript, HTML5, CSS3 |
+| Mobile Engineering | Flutter, Dart, Android, Kotlin, Firebase |
+| Artificial Intelligence | LLM integration, AI agents, RAG, NLP, prompt systems, automation |
+| Databases | MySQL, PostgreSQL, MongoDB, Redis, SQLite |
+| Cloud & Infrastructure | AWS, DigitalOcean, Linux, Nginx, Docker, Cloudflare |
+| APIs & Integration | REST APIs, GraphQL, payment gateways, third-party APIs, webhooks |
+| CMS & Commerce | WordPress, WooCommerce, Shopify, custom e-commerce |
+| Product Engineering | SaaS, multi-tenancy, subscriptions, RBAC, audit logs, reporting |
+| Digital Growth | Technical SEO, performance optimization, analytics and digital marketing |
+
+---
+
+## Product Portfolio
+
+<details open>
+  <summary><strong>Artificial Intelligence Products</strong></summary>
+  <br/>
+
+- AI Astrologer and personalized prediction platform
+- Multilingual AI assistant
+- AI chatbot development framework
+- AI agent and workflow automation
+- Retrieval-Augmented Generation platform
+- Business knowledge assistant
+- WhatsApp AI automation
+- AI-powered content and response systems
+- Intelligent recommendation systems
+- Custom enterprise AI integrations
+
+</details>
+
+<details>
+  <summary><strong>Enterprise Business Products</strong></summary>
+  <br/>
+
+- Enterprise HRM and HRMS
+- Customer Relationship Management system
+- Enterprise Resource Planning system
 - Proposal Builder SaaS
-- Hospital Management
-- Clinic Management
-- School Management
-- Restaurant POS
-- Hotel Management
-- Inventory Management
-- Attendance Management
-- Payroll Management
-- Booking Platform
-- Ecommerce Platform
-- Business Websites
-- Flutter Mobile Apps
-- AI Chatbots
-- AI Agents
-- WhatsApp Automation
-- Custom Enterprise Software
+- Attendance and workforce management
+- Payroll and employee lifecycle management
+- Lead and prospect management
+- Inventory and stock management
+- Invoice, billing and accounting systems
+- Project and task management
+- Vendor and supplier management
+- Document and approval management
+- Internal communication and notification systems
+- Business analytics and reporting dashboards
+
+</details>
+
+<details>
+  <summary><strong>Industry-Specific Products</strong></summary>
+  <br/>
+
+- Hospital management system
+- Clinic and appointment management
+- School and education management
+- Learning management system
+- Restaurant POS and management
+- Hotel and property management
+- Gym and membership management
+- Logistics and delivery management
+- Cab and vehicle management
+- Laundry management
+- Real estate and property platforms
+- Loan and finance management
+- Service marketplace platforms
+- Booking and reservation systems
+- E-commerce and multi-vendor platforms
+
+</details>
+
+<details>
+  <summary><strong>Web, Mobile and Digital Products</strong></summary>
+  <br/>
+
+- Corporate and business websites
+- E-commerce websites
+- Custom Laravel applications
+- WordPress and WooCommerce solutions
+- Shopify stores
+- Flutter Android and iOS applications
+- Customer portals
+- Employee portals
+- Admin and super-admin panels
+- API-first applications
+- Subscription and membership platforms
+- Payment and billing integrations
+- Real-time notification platforms
+- SEO and marketing automation tools
+
+</details>
 
 ---
 
-# Current Projects
+## Flagship Development Initiatives
 
-- Uparwala AI Astrologer
-- Enterprise HRM
-- Proposal Builder
-- Flutter Mobile Applications
-- AI Automation Platform
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Uparwala AI Astrologer</h3>
+      <p>
+        Multilingual artificial intelligence astrologer designed for personalized
+        predictions, remedies, conversational guidance and astrology-based digital services.
+      </p>
+      <p>
+        <strong>Core:</strong> Python, AI, astrology engine, multilingual intelligence,
+        benchmark evaluation and future platform integrations.
+      </p>
+      <a href="https://github.com/krishDeTech/ai-astrologer">
+        <img src="https://img.shields.io/badge/View_AI_Repository-D4AF37?style=for-the-badge&labelColor=111111" alt="AI Astrologer repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Uparwala Service Platform</h3>
+      <p>
+        Subscription-driven astrology and spiritual service platform with user accounts,
+        plan management, payments and personalized daily services.
+      </p>
+      <p>
+        <strong>Core:</strong> Laravel, Blade, MySQL, payments, WhatsApp workflows,
+        administration and API readiness.
+      </p>
+      <a href="https://github.com/krishDeTech/uparwala">
+        <img src="https://img.shields.io/badge/View_Web_Platform-D4AF37?style=for-the-badge&labelColor=111111" alt="Uparwala repository"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Enterprise HRM</h3>
+      <p>
+        Advanced human resource and workforce management platform covering employees,
+        attendance, payroll, recruitment, performance and business operations.
+      </p>
+      <p>
+        <strong>Core:</strong> HRMS, payroll, attendance, role permissions, reporting,
+        automation and enterprise administration.
+      </p>
+      <a href="https://github.com/krishDeTech/hrm-system">
+        <img src="https://img.shields.io/badge/View_HRM_Repository-D4AF37?style=for-the-badge&labelColor=111111" alt="HRM repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Uparwala Mobile Application</h3>
+      <p>
+        Mobile application designed to connect users with the Uparwala service ecosystem,
+        account features, predictions, subscriptions and notifications.
+      </p>
+      <p>
+        <strong>Core:</strong> Flutter, Dart, Android, iOS, Laravel APIs and push notifications.
+      </p>
+      <a href="https://github.com/krishDeTech/uparwala-mobile-app">
+        <img src="https://img.shields.io/badge/View_Mobile_Repository-D4AF37?style=for-the-badge&labelColor=111111" alt="Uparwala mobile application repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# Services
+## Services
 
-- Custom Software Development
-- Website Development
-- Mobile App Development
-- AI Development
-- SaaS Development
-- API Integration
-- UI / UX Design
-- WordPress Development
-- Shopify Development
-- Cloud Deployment
-- DevOps
-- Server Management
-- SEO
-- Digital Marketing
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### Software Engineering
+
+- Custom software development
+- Enterprise software architecture
+- SaaS product development
+- CRM, ERP and HRM systems
+- API development and integration
+- System modernization
+- Database architecture
+- Admin and user portals
+
+    </td>
+    <td width="33%" valign="top">
+
+### AI & Automation
+
+- AI application development
+- AI chatbot development
+- AI agent development
+- LLM integration
+- RAG implementation
+- Workflow automation
+- WhatsApp automation
+- Intelligent business systems
+
+    </td>
+    <td width="33%" valign="top">
+
+### Web & Mobile
+
+- Laravel development
+- React and Next.js development
+- Flutter application development
+- Android and iOS applications
+- WordPress and WooCommerce
+- Shopify development
+- E-commerce solutions
+- UI and UX implementation
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+
+### Cloud & DevOps
+
+- AWS deployment
+- Linux server administration
+- Nginx configuration
+- Docker environments
+- Cloudflare configuration
+- SSL and domain management
+- CI/CD workflows
+- Application monitoring
+
+    </td>
+    <td width="33%" valign="top">
+
+### Infrastructure
+
+- VPS and cloud hosting
+- Website migration
+- Server security
+- Backup and recovery
+- Email infrastructure
+- DNS management
+- Performance optimization
+- Production troubleshooting
+
+    </td>
+    <td width="33%" valign="top">
+
+### Digital Growth
+
+- Technical SEO
+- On-page SEO
+- Website performance
+- Digital marketing
+- Google Ads
+- Meta advertising
+- Analytics configuration
+- Conversion optimization
+
+    </td>
+  </tr>
+</table>
 
 ---
 
----
+## Product Engineering Standards
 
-# GitHub Analytics
+Our systems are designed around production-focused engineering principles:
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishDeTech&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishDeTech&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=krishDeTech&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishDeTech&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
+- Scalable and maintainable architecture
+- Secure authentication and authorization
+- Role-based access control
+- Multi-tenant SaaS readiness
+- Modular business domains
+- REST API and mobile API readiness
+- Responsive and accessible interfaces
+- Admin, super-admin and user dashboards
+- Audit trails and activity logs
+- Queues, jobs and scheduled automation
+- Payment and subscription integration
+- Notification and communication systems
+- Reporting and analytics
+- Database backups and disaster recovery
+- Cloud deployment and production monitoring
+- Technical documentation and deployment guides
 
 ---
 
+## Currently Building
+
+```text
+Uparwala AI Astrologer
+├── Astrology reasoning engine
+├── Multilingual conversational intelligence
+├── Prediction and remedy generation
+├── Benchmark and evaluation framework
+├── Accuracy and safety improvement
+└── Production integration roadmap
+
+Enterprise HRM
+├── Employee lifecycle management
+├── Attendance and workforce operations
+├── Payroll and compensation
+├── Recruitment and onboarding
+├── Performance management
+└── Enterprise reporting
+
+Proposal Builder SaaS
+├── Proposal generation
+├── CRM and prospect management
+├── Document and template workflows
+├── Communication and notification systems
+├── Business operations modules
+└── AI-assisted productivity
+```
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=krishDeTech&label=Profile%20Views&color=D4AF37&style=for-the-badge"/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=krishDeTech&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=8B949E&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
+    alt="Krish Dutta GitHub statistics"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishDeTech&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=8B949E&langs_count=10&cache_seconds=86400"
+    alt="Most used programming languages"
+  />
 </p>
 
-## Connect with us
+> The language card reflects languages detected in public repositories. It does not represent total professional experience or the complete technology portfolio.
+
+---
+
+## Contribution Activity
 
 <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/krishDeTech/krishDeTech/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/krishDeTech/krishDeTech/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/krishDeTech/krishDeTech/output/github-contribution-grid-snake-dark.svg"
+      alt="Animated GitHub contribution graph"
+      width="100%"
+    />
+  </picture>
+</p>
 
-<a href="https://detech.co.in">
-<img src="https://img.shields.io/badge/Website-DE%20TECHS-gold?style=for-the-badge"/>
-</a>
+---
 
-<a href="mailto:detech.business001@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
+## Business and Collaboration
 
-<a href="https://www.linkedin.com/in/de-tech-2a6055285">
-<img src="https://img.shields.io/badge/LinkedIn-DE%20TECHS-blue?style=for-the-badge"/>
-</a>
+We collaborate on:
 
+- Enterprise software development
+- Artificial intelligence products
+- SaaS platforms
+- Mobile application development
+- Business process automation
+- Digital product partnerships
+- Dedicated development teams
+- API and infrastructure projects
+- Product modernization
+- Long-term technical support
+
+<p align="center">
+  <a href="https://detech.co.in">
+    <img src="https://img.shields.io/badge/Explore_Our_Services-detech.co.in-D4AF37?style=for-the-badge&labelColor=111111" alt="Explore DE TECHS services"/>
+  </a>
+  <a href="mailto:detech.business001@gmail.com">
+    <img src="https://img.shields.io/badge/Discuss_A_Project-Email_Us-D4AF37?style=for-the-badge&labelColor=111111" alt="Discuss a project"/>
+  </a>
+</p>
+
+---
+
+## Connect With DE TECHS
+
+<p align="center">
+  <a href="https://detech.co.in">
+    <img src="https://img.shields.io/badge/Website-detech.co.in-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111" alt="DE TECHS Website"/>
+  </a>
+  <a href="mailto:detech.business001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-detech.business001%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="DE TECHS Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/de-tech-2a6055285">
+    <img src="https://img.shields.io/badge/LinkedIn-DE_TECHS-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="DE TECHS LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
-
-# Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| Uparwala AI | AI-powered Astrology Platform |
-| Enterprise HRM | HRMS with Payroll & Attendance |
-| Proposal Builder | Enterprise Proposal SaaS |
-| Flutter Mobile | Android & iOS Apps |
-| AI Astrologer | Python + AI Prediction Engine |
-
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/krishDeTech/krishDeTech/output/github-contribution-grid-snake-dark.svg">
-
+  <strong>DE TECHS</strong><br/>
+  Enterprise Software · Artificial Intelligence · SaaS · Mobile · Cloud
 </p>
 
-⭐ Thank you for visiting our GitHub Profile ⭐
+<p align="center">
+  Kolkata, West Bengal, India
+</p>
 
+<p align="center">
+  <img
+    src="./assets/favicon%20with%20bg.png"
+    alt="DE TECHS"
+    width="72"
+  />
+</p>
+
+<p align="center">
+  <strong>Technology Built for Business Growth.</strong>
 </p>
